@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "tiangolo",
+  "repo": "repo-redirect",
+  "versions": [
+    {
+      "commit": "1e4e8677a6232a7dfe44c6789bd469340430d192",
+      "parsed_at": "2026-10-10T13:03:29.732322+00:00",
+      "filetree": "filetree/1e4e8677a6232a7dfe44c6789bd469340430d192.nq.gz",
+      "blobs": [
+        "blob/1d5d61c15d9b2f6dcbf646c1c8c4e82695d1d503.nq.gz",
+        "blob/505a3b1ca2716907d5b292ab90c36df043c42bb6.nq.gz",
+        "blob/06ca6b3d8106b03fe250d383daa469187da51164.nq.gz",
+        "blob/22dd1c1d26417bb3f592875c3abc1b3b1cf9f39e.nq.gz",
+        "blob/e46ed426558f8b414419c55d1a2c855cbd8296a2.nq.gz",
+        "blob/f1bb8f6e9b3505f792f34cefec38beb9c5ebfad6.nq.gz",
+        "blob/edde5cd6ef4eaa9db2ffde0ea428756b91930831.nq.gz",
+        "blob/e940a46aee5b7acdc5a87ad63655eff72234c68f.nq.gz",
+        "blob/12a7aeb2846d4a17e87008fb3bb8ca253e07bf47.nq.gz",
+        "blob/afba912bad53d4a798457ab69816029aeee3649b.nq.gz",
+        "blob/6324d401a069f4020efcf0ff07442724b52f47c2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/8dc006060a91211097221b51302dfa60d1fee337.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
