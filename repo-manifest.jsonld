@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/repo-redirect/commit/1e4e8677a6232a7dfe44c6789bd469340430d192",
       "git:hexsha": "1e4e8677a6232a7dfe44c6789bd469340430d192",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
